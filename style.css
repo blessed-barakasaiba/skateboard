@@ -8,6 +8,11 @@ html, body{
     margin-top: 20px;
 }
 
+.main-section h2{
+    color: #CCC;
+}
+
+
 .video-class{
     width: 70%;
     margin: 0 auto;
