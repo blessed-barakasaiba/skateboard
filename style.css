@@ -1,28 +1,29 @@
-html, body{
-    padding: 0;
-    margin: 0;
-    background: #1A1A1A; 
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: #1a1a1a;
 }
 
 .main-section {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
-.main-section h2{
-    color: #CCC;
+.video-class {
+  width: 70%;
+  margin: 0 auto;
 }
 
-
-.video-class{
-    width: 70%;
-    margin: 0 auto;
+.video-class h2 {
+  color: #ccc;
 }
- .video-class video {
-    width: 100%;
-    height: 500px;
-    object-fit: cover;
-    display: block;
-    margin-bottom: 20px;
-    border-radius: 20px;
-    overflow: hidden;
- }
+
+.video-class video {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  overflow: hidden;
+}
